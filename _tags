@@ -1,0 +1,4 @@
+# OASIS_START
+# OASIS_END
+true: no_alias_deps
+<src/a__*.ml>: open(A)
